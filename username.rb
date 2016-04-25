@@ -1,5 +1,5 @@
 # Make sure to run the tests in your /spec folder
-# Run `rspec /spec/username_spec.rb` to get started.
+# Run `rspec spec/username_spec.rb` to get started.
 
 # LEVEL 1
 
